@@ -9,7 +9,6 @@ def fatorial(numero):
 
 print("O fatorial de ",numero,"é ", fatorial(numero)) 
 
-# O exercicio 2 e 3 não consegui fazer
 # Exercício 4:
 
 def perfeito(numero):
